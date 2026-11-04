@@ -6,7 +6,4 @@ Biomedical Engineering graduate from Warsaw University of Technology, currently 
 
 I recently defended my thesis, addressing a research gap in data-centric approaches to wound and tissue segmentation with Fraunhofer Portugal.
 
-- Interests: passionate of AI, NLP, sport, psychology, life balance, and art.
-- Worked on projects involving Recommendation Systems, NLP Projects, RAG LLMs, GANs, Time Series Forecasting, Robotics with DLR, and using CNNs for Human Activities Recognition.
-
 ✨ [My Website](https://readymag.website/u2873046722/5191106/)  with some of my creative side...
